@@ -1,2 +1,2 @@
 # MyWritings
-Consists links of my medium blog writings 
+Contains links of my medium blog writings 
