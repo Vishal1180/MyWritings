@@ -7,4 +7,6 @@ Blog 2 https://medium.com/@vpatil12/feature-engineering-and-modeling-phase-in-th
 
 Blog 3 https://medium.com/@vpatil12/sql-for-data-science-a6f0373119b
 
+Blog 4 https://medium.com/@vpatil12/evaluation-metrics-for-classification-models-in-machine-learning-6c539f724e41
+
 
