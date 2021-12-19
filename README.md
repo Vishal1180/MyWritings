@@ -9,4 +9,4 @@ Blog 3 https://medium.com/@vpatil12/sql-for-data-science-a6f0373119b
 
 Blog 4 https://medium.com/@vpatil12/evaluation-metrics-for-classification-models-in-machine-learning-6c539f724e41
 
-
+Blog 5 https://medium.com/@vpatil12/evaluation-metrics-for-regression-models-ee82175744a
